@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarosBenadik
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently studying MSc in Computing
-- 💞️ I’m looking to collaborate on django projects 
+- 👀 I’m interested in DevOps/Cloud Enginering 
+- 🌱 I’m currently Working as Senior CLoud engineer For VW Group
+- 💞️ I’m looking to collaborate on any devOps/Cloud projects 
 - 📫 How to reach me mbenadik25@gmail.com
 
 <!---
